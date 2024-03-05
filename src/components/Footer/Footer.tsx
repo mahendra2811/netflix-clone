@@ -9,7 +9,7 @@ const footer = () => (
         className='footer__copyright--link'
         href='https://github.com/devandres-tech'
       >
-        Dev Andres
+        Mahendra singh puniya
       </a>
     </div>
   </footer>
